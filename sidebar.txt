@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ptr:home|Door43 (ptr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ptr|d43-ptr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ptr/archive/master.zip|d43-ptr.zip]]
+
+**Recent Changes**
+{{changes>ns = ptr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ptr|Ethnologue data]]
+
